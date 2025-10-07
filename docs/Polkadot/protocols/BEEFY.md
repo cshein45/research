@@ -51,7 +51,7 @@ The community-owned, trustless bridge **Snowbridge** allows users to securely tr
 
 Beyond these integrations, Snowbridge unlocks new possibilities for DeFi, gaming, and governance across the Polkadot network by connecting Ethereum with Polkadot and its parachains. This broad connectivity empowers developers and users to transfer assets across diverse ecosystems with ease and security. Snowbridge is expected to experience significant growth in the coming years as adoption accelerates. Being a key driver of the Polkadot ecosystem, Snowbridge facilitates cross-chain use cases and brings valuable liquidity from Ethereum to Polkadot.
 
-## Key Takeaways
+## Key takeaways
 
 Decentralised Bridges enable a wide range of applications, including asset swaps and chain migrations. As such, their security is essential to guarantee service growth. By adopting Random Sampling BEEFY, cross-chain communication becomes more secure and efficient than ever. At the same time, it pushes the boundaries of what’s possible with trustless bridges. 
 
