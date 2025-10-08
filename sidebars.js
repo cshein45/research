@@ -70,6 +70,7 @@ const sidebars = {
                 'Polkadot/protocols/Sassafras/Sassafras-part-3',
               ],
             },
+            'Polkadot/protocols/BEEFY',
             'Polkadot/protocols/finality',
             'Polkadot/protocols/LightClientsBridges',
           ],
